@@ -1,0 +1,10 @@
+{
+  "name": "MUSE",
+  "appid": "__UNI__MUSE001",
+  "description": "MUSE",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": { "appid": "wx0000000000000000", "setting": { "urlCheck": false }, "usingComponents": true },
+  "vueVersion": "3"
+}
